@@ -1,5 +1,6 @@
 # Google-Analytics-Customer-Revenue-Prediction     
 谷歌分析客户收入预测       
+https://www.kaggle.com/c/ga-customer-revenue-prediction   
 
 The 80/20 rule has proven true for many businesses–only a small percentage of customers produce most of the revenue. As such, marketing teams are challenged to make appropriate investments in promotional strategies.       
 
